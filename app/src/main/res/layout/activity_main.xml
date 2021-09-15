@@ -23,8 +23,7 @@
             android:id="@+id/tietKomen"
             android:layout_width="385dp"
             android:layout_height="114dp"
-            android:hint="Komentar "
-
+            android:hint="Komentar"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="22dp" />
     </com.google.android.material.textfield.TextInputLayout>
